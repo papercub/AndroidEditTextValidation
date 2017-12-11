@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidEditTextValidation.iml" filepath="$PROJECT_DIR$/AndroidEditTextValidation.iml" />
+      <module fileurl="file://D:\AndroidEditTextValidation\AndroidEditTextValidation.iml" filepath="D:\AndroidEditTextValidation\AndroidEditTextValidation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\AndroidEditTextValidation\app\app.iml" filepath="D:\AndroidEditTextValidation\app\app.iml" />
     </modules>
   </component>
 </project>
